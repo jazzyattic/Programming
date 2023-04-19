@@ -1,0 +1,40 @@
+header nav {
+      width: 100%;
+      max-width: 750px;
+      margin: 0 auto;
+      padding-top: 152px;
+  }
+  nav {
+      padding: 0;
+      margin: 0;
+  }
+  article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+      display: block;
+  }
+  user agent stylesheet
+  nav {
+      display: block;
+  }
+  html {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+  }
+  html {
+      font-size: 1em;
+      line-height: 1.4;
+  }
+  html, button, input, select, textarea {
+      color: #222;
+  }
+  html, button, input, select, textarea {
+      font-family: sans-serif;
+  }
+  html {
+      font-size: 100%;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+  }
+  ::selection {
+      background: #b3d4fc;
+      text-shadow: none;
+  }

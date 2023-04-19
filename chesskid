@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html
+    xmlns="http://www.w3.org/1999/xhtml"
+    xml:lang="en"
+    lang="en"
+    dir="ltr"
+    class="-v3-entry theme-fallback">
+<head>
+      <link rel="preconnect" href="//www.googletagmanager.com">
+    <link rel="preconnect" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2" />
+<meta name="theme-color" content="#64a243" />
+<meta name="google-play-app" content="app-id=com.chesskid" />
+<meta name="apple-itunes-app" content="app-id=629375826" />
+    <meta name="description" content="Play vs. computer and challenge many levels of bots, AI of famous chess personalities, and more! Play on ChessKid for FREE!" />
+    <meta property="og:description" content="Play vs. computer and challenge many levels of bots, AI of famous chess personalities, and more! Play on ChessKid for FREE!" />
+    <meta property="twitter:description" content="Play vs. computer and challenge many levels of bots, AI of famous chess personalities, and more! Play on ChessKid for FREE!" />
+    <meta property="og:image" content="https://www.chesskid.com/images/socialmedia/chesskid_play_vs_computer_and_bot.png" />
+    <meta property="twitter:image" content="https://www.chesskid.com/images/socialmedia/chesskid_play_vs_computer_and_bot.png" />
+<meta property="og:title" content="Play Chess Against Computer & AI for FREE - ChessKid.com" />
+<meta property="og:url" content="https://www.chesskid.com/play/computer" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ChessKid.com" />
+<meta property="twitter:title" content="Play Chess Against Computer & AI for FREE - ChessKid.com" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@ChessKidcom" />
+
+  <title>Play Chess Against Computer & AI for FREE - ChessKid.com</title>
+    
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDTG4ZN');</script>
+
+
+  <link href="/images/favicon.ico?v=3.2" type="image/x-icon" rel="shortcut icon" />
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icons/touch/chesskid-180.png">
+<link rel="apple-touch-icon" sizes="360x360" href="/images/icons/touch/chesskid-360.png">
+<link rel="manifest" href="/manifest.json">
+    <link rel="canonical" href="https://www.chesskid.com/play/computer"/>
+            <link rel="alternate" href="https://www.chesskid.com/play/computer" hreflang="en" />
+            <link rel="alternate" href="https://www.chesskid.com/sv/play/computer" hreflang="sv" />
+            <link rel="alternate" href="https://www.chesskid.com/ru/play/computer" hreflang="ru" />
+            <link rel="alternate" href="https://www.chesskid.com/sr/play/computer" hreflang="sr" />
+            <link rel="alternate" href="https://www.chesskid.com/hu/play/computer" hreflang="hu" />
+            <link rel="alternate" href="https://www.chesskid.com/pl/play/computer" hreflang="pl" />
+            <link rel="alternate" href="https://www.chesskid.com/es/play/computer" hreflang="es" />
+            <link rel="alternate" href="https://www.chesskid.com/pt/play/computer" hreflang="pt" />
+            <link rel="alternate" href="https://www.chesskid.com/de/play/computer" hreflang="de" />
+            <link rel="alternate" href="https://www.chesskid.com/fr/play/computer" hreflang="fr" />
+            <link rel="alternate" href="https://www.chesskid.com/it/play/computer" hreflang="it" />
+            <link rel="alternate" href="https://www.chesskid.com/nl/play/computer" hreflang="nl" />
+            <link rel="alternate" href="https://www.chesskid.com/no/play/computer" hreflang="no" />
+            <link rel="alternate" href="https://www.chesskid.com/pt-BR/play/computer" hreflang="pt-BR" />
+            <link rel="alternate" href="https://www.chesskid.com/uk/play/computer" hreflang="uk" />
+            <link rel="alternate" href="https://www.chesskid.com/da/play/computer" hreflang="da" />
+            <link rel="alternate" href="https://www.chesskid.com/tr/play/computer" hreflang="tr" />
+            <link rel="alternate" href="https://www.chesskid.com/fi/play/computer" hreflang="fi" />
+            <link rel="alternate" href="https://www.chesskid.com/zh/play/computer" hreflang="zh" />
+            <link rel="alternate" href="https://www.chesskid.com/lv/play/computer" hreflang="lv" />
+            <link rel="alternate" href="https://www.chesskid.com/lt/play/computer" hreflang="lt" />
+            <link rel="alternate" href="https://www.chesskid.com/ko/play/computer" hreflang="ko" />
+            <link rel="alternate" href="https://www.chesskid.com/cs/play/computer" hreflang="cs" />
+            <link rel="alternate" href="https://www.chesskid.com/el/play/computer" hreflang="el" />
+            <link rel="alternate" href="https://www.chesskid.com/ka/play/computer" hreflang="ka" />
+            <link rel="alternate" href="https://www.chesskid.com/hr/play/computer" hreflang="hr" />
+            <link rel="alternate" href="https://www.chesskid.com/mn-MN/play/computer" hreflang="mn-MN" />
+            <link rel="alternate" href="https://www.chesskid.com/bg/play/computer" hreflang="bg" />
+            <link rel="alternate" href="https://www.chesskid.com/id/play/computer" hreflang="id" />
+            <link rel="alternate" href="https://www.chesskid.com/vi/play/computer" hreflang="vi" />
+            <link rel="alternate" href="https://www.chesskid.com/ro/play/computer" hreflang="ro" />
+    
+  <script type="module" crossorigin src="/js/client-prod/assets/index.9533f368.js"></script>
+    <link rel="modulepreload" crossorigin href="/js/client-prod/assets/@chesscom.fae747fe.js">
+    <link rel="modulepreload" crossorigin href="/js/client-prod/assets/tiny-emitter.716456e0.js">
+    <link rel="modulepreload" crossorigin href="/js/client-prod/assets/@vue.b9e6a3e5.js">
+    <link rel="modulepreload" crossorigin href="/js/client-prod/assets/@amplitude.f03bffdd.js">
+    <link rel="modulepreload" crossorigin href="/js/client-prod/assets/axios.b49fa0b4.js">
+    <link rel="stylesheet" href="/js/client-prod/assets/@chesscom.7896a9c9.css">
+    <link rel="stylesheet" href="/js/client-prod/assets/index.553975c2.css">
+</head>
+<body class="" style="">
+    <script>
+  (function () {
+    if (!isBrowserSupported()) {
+      var link = document.createElement('link');
+      link.type = 'text/css';
+      link.rel = 'stylesheet';
+      link.href= '/css/legacy-popup.0497e66a.css';
+      document.head.appendChild(link);
+
+      var script = document.createElement('script');
+      script.src = "https://www.chesskid.com/js/vue-legacy-popup.1419671e.js";
+      document.head.appendChild(script);
+    }
+
+    function isBrowserSupported() {
+      return supportsFlexGap();
+    }
+
+    function supportsFlexGap() {
+      // create a flex container with row-gap set
+      var flex = document.createElement('div');
+      flex.style.display = 'flex';
+      flex.style.flexDirection = 'column';
+      flex.style.gap = '1px';
+
+      flex.appendChild(document.createElement('div'));
+      flex.appendChild(document.createElement('div'));
+
+      document.body.insertBefore(flex, document.body.firstChild);
+      // the flex container should be 1px height from the gap
+      var isSupported = flex.clientHeight > 0;
+
+      flex.parentNode.removeChild(flex);
+
+      return isSupported;
+    }
+  })();
+</script>
+
+    <script>
+    window.sidebars = [{"id":"impersonate","isImpersonating":false,"authUserUsername":null}];
+    window.isSpa = true;
+</script>
+
+            <script>
+    window.vm = {"theme":"aurora-theme"};
+</script>
+<div id="app"></div>
+
+        <script src="/js/translation/es6-translation.en_US.vdc2962d5d8e15d0f72d1d3e99d4dd27d10b05363.js"></script>
+
+
+<div id="non_visible_data" style="display:none"></div>
+
+    
+    
+</body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDTG4ZN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+</html>

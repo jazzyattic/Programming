@@ -1,0 +1,25 @@
+line-content {
+    padding: 0px 5px !important;
+}
+
+td {
+    display: table-cell;
+    vertical-align: baseline;
+    padding: 0px !important;
+}
+
+.line-wrap {
+    word-break: normal;
+    overflow-wrap: anywhere;
+    white-space: pre-wrap !important;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: pre;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    border-spacing: 0px;
+}
